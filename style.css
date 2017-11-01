@@ -1,0 +1,4 @@
+article, header, nav, aside, section, footer {
+display: block;
+min-height: 100px;
+background: hsla(200, 30%, 30%, .4); }
